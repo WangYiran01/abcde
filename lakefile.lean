@@ -12,6 +12,6 @@ require mathlib from
   git "https://github.com/leanprover-community/mathlib4"
 
 @[default_target]
-lean_lib «add_div_two» {
+lean_lib «TEST1» {
   -- add library configuration options here
 }
